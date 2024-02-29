@@ -67,21 +67,28 @@ header{
     background-color: #171717;
     font-size: 3vw;
     display: flex;
-    justify-content: center;  
+    justify-content: space-evenly;  
     width: auto;
     height: 738px;
     align-items: center; 
     
 }
 
-.subheading{
-    margin-left: 20%;
+.subheading1{
     color: rgb(255, 255, 255);
 }
 
 #aboutcontent{
-    margin-left: 20%;
-    margin-right: 10%;
-    width: 50%;
     color: white;
+    width: 45%;
+    line-height: 1.5;
+}
+
+#works{
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 738px;
+
 }
